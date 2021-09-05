@@ -1,3 +1,6 @@
 # Sudoku_Solver
 
-9/4/21 - Currently written as a Jupyter Notebook, Modify the initial puzzle list and the output will be a solved puzzle if there is one 
+Different versions of a sudoku solver that I have written
+
+For the Jupyter solver, change the values in the puzzle cell and run all cells
+For the Command solver, run >python Solver.py
